@@ -1,6 +1,6 @@
 'use client'
 
-import Navbar from '../Component/Navbar/Page'
+import Navbar from '../Component/Navbar/page'
 import Footer from '../Component/Footer/page'
 import Link from 'next/link'
 

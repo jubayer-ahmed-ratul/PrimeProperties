@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import { useParams, useRouter } from 'next/navigation'
-import Navbar from '../../Component/Navbar/Page'
+import Navbar from '../../Component/Navbar/page'
 import Footer from '../../Component/Footer/page'
 
 export default function ItemDetails() {
