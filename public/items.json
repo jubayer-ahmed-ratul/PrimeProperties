@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Villa",
+    "description": "Luxurious 4-bedroom villa with ocean view and private pool",
+    "price": "$850,000",
+    "image": "https://i.ibb.co/FksN8Pwd/image1.webp",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": "3500 sq ft"
+  },
+  {
+    "id": 2,
+    "name": "Downtown Apartment",
+    "description": "Stylish 2-bedroom apartment in the heart of the city",
+    "price": "$425,000",
+    "image": "https://i.ibb.co/nMrPPQxw/image2.jpg",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": "1200 sq ft"
+  },
+  {
+    "id": 3,
+    "name": "Suburban House",
+    "description": "Spacious family home with large backyard and garage",
+    "price": "$650,000",
+    "image": "https://i.ibb.co/2YKMb34s/image3.jpg",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": "2800 sq ft"
+  },
+  {
+    "id": 4,
+    "name": "Beachfront Condo",
+    "description": "Beautiful 3-bedroom condo with stunning beach views",
+    "price": "$720,000",
+    "image": "https://i.ibb.co/cX8R888Z/image4.jpg",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": "1800 sq ft"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Penthouse",
+    "description": "Exclusive penthouse with panoramic city views and rooftop terrace",
+    "price": "$1,200,000",
+    "image": "https://i.ibb.co/Zz9zPhFn/image5.jpg",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": "4200 sq ft"
+  },
+  {
+    "id": 6,
+    "name": "Cozy Cottage",
+    "description": "Charming 2-bedroom cottage in a peaceful neighborhood",
+    "price": "$380,000",
+    "image": "https://i.ibb.co/PzwGzsr5/image6.jpg",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": "950 sq ft"
+  }
+]
