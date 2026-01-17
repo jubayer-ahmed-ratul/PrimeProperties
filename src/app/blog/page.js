@@ -13,7 +13,7 @@ export default function BlogPage() {
       date: 'January 10, 2026',
       author: 'Sarah Johnson',
       category: 'Home Buying',
-      image: '/blog-1.jpg',
+      image: 'https://i.ibb.co.com/QwCPTdb/first-tim-home-buy.webp',
       readTime: '5 min read'
     },
     {
@@ -23,7 +23,7 @@ export default function BlogPage() {
       date: 'January 8, 2026',
       author: 'Michael Chen',
       category: 'Investment',
-      image: '/blog-2.jpg',
+      image: 'https://i.ibb.co.com/dw2r6Psk/investment.webp',
       readTime: '7 min read'
     },
     {
@@ -33,7 +33,7 @@ export default function BlogPage() {
       date: 'January 5, 2026',
       author: 'Emily Rodriguez',
       category: 'Property Tips',
-      image: '/blog-3.jpg',
+      image: 'https://i.ibb.co.com/zhqqqnZh/Resale-Value.jpg',
       readTime: '6 min read'
     }
   ]
